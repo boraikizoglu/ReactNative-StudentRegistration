@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "ReactNative-StudentRegistration",
+    "description": "Student registration app is built using React Native, Redux, Firebase and React Navigation",
+    "slug": "ReactNative-StudentRegistration",
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/icon.png",
+    "loading": {
+      "icon": "./assets/icons/loading.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4"
+      ],
+      "config": "rn-cli.config.js"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
